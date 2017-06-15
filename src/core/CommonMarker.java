@@ -1,4 +1,4 @@
-package module6;
+package core;
 
 
 import de.fhpotsdam.unfolding.geo.Location;
