@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee36f13-ef1e-46c0-85e7-f01455473fa3" name="Default" comment="" />
+    <list default="true" id="6ee36f13-ef1e-46c0-85e7-f01455473fa3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/2.5_week.atom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/Airport.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/EarthquakeCityMapDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/LifeExpectancy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/LocationTester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/MyDisplay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/MyPApplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/SearchAndSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/SimpleLocation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/demos/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module1/HelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module3/EarthquakeCityMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module4/CityMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module4/EarthquakeCityMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module4/EarthquakeMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module4/LandQuakeMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module4/OceanQuakeMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module5/CityMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module5/CommonMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module5/EarthquakeCityMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module5/EarthquakeMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module5/LandQuakeMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/module5/OceanQuakeMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/quiz1.atom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/quiz2.atom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test1.atom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test1.out.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test2.atom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test2.out.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/Airport.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/EarthquakeCityMapDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/LifeExpectancy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/LocationTester.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/MyDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/MyPApplet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/SearchAndSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/SimpleLocation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demos/Student.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module1/HelloWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module3/EarthquakeCityMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/CityMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/EarthquakeCityMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/EarthquakeMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/LandQuakeMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module4/OceanQuakeMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/CityMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/CommonMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/EarthquakeCityMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/EarthquakeMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/LandQuakeMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/module5/OceanQuakeMarker.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +68,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommonMarker.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommonMarker.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/module6/CommonMarker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -33,14 +88,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EarthquakeCityMap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EarthquakeCityMap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/module6/EarthquakeCityMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="62" column="20" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +122,9 @@
       <find>checkCitiesForClick</find>
       <find>unhideMarkers</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -102,6 +158,7 @@
     <option name="width" value="1280" />
     <option name="height" value="704" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -118,7 +175,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,6 +190,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,6 +198,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -359,42 +417,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="week1" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="module1.HelloWorld" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="UCSDUnfoldingMaps" />
-      <method />
-    </configuration>
-    <configuration default="false" name="week3" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="module3.EarthquakeCityMap" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="UCSDUnfoldingMaps" />
-      <method />
-    </configuration>
-    <configuration default="false" name="week4" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="module4.EarthquakeCityMap" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="UCSDUnfoldingMaps" />
-      <method />
-    </configuration>
-    <configuration default="false" name="week5" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="module5.EarthquakeCityMap" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="UCSDUnfoldingMaps" />
-      <method />
-    </configuration>
     <configuration default="false" name="week6" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="module6.EarthquakeCityMap" />
@@ -404,12 +426,8 @@
       <module name="UCSDUnfoldingMaps" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Applet.week1" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.week3" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.week4" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.week5" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.week6" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Applet.week6" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -438,8 +456,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19055118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3417323" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -528,9 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -567,8 +582,8 @@
         <state relative-caret-position="893">
           <caret line="47" column="64" lean-forward="false" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2572#2580#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2572#2580#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -662,8 +677,8 @@
         <state relative-caret-position="425">
           <caret line="66" column="86" lean-forward="false" selection-start-line="66" selection-start-column="74" selection-end-line="66" selection-end-column="86" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2572#2580#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2572#2580#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -721,9 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,9 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2071">
           <caret line="75" column="88" lean-forward="false" selection-start-line="75" selection-start-column="60" selection-end-line="75" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3021">
           <caret line="165" column="54" lean-forward="false" selection-start-line="165" selection-start-column="45" selection-end-line="165" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,18 +890,16 @@
     <entry file="file://$PROJECT_DIR$/src/module6/CommonMarker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/module6/EarthquakeCityMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="62" column="20" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
