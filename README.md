@@ -22,8 +22,10 @@ If the import does not work follow the steps below.<p>
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 <p>
-##DEMO##
+
+## DEMO
+## demo1 
 <img src="data/OneEaryhquake.png" width="450" height="300"/><br>
 
-
+## demo2
 <img src="data/allCityAndEaryhquake.png" width="450" height="300"/><br>
