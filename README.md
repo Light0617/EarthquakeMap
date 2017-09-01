@@ -25,7 +25,7 @@ Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with
 
 ## DEMO
 ## demo: One Earthquake
-<img src="data/OneEarthquake.png" width="450" height="300"/><br>
+<img src="OneEarthquake.png" width="450" height="300"/><br>
 
 ## demo: All City And Earthquake
-<img src="data/allCityAndEarthquake.png" width="450" height="300"/><br>
+<img src="allCityAndEarthquake.png" width="450" height="300"/><br>
