@@ -21,10 +21,6 @@ import parsing.ParseFeed;
 import processing.core.PApplet;
 
 /** EarthquakeCityMap
- * An application with an interactive map displaying earthquake data.
- * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Your name here
- * Date: July 17, 2015
  * */
 public class EarthquakeCityMap extends PApplet {
 	
@@ -34,7 +30,7 @@ public class EarthquakeCityMap extends PApplet {
 	// code to modify is countryQuakes, where you will store the number of earthquakes
 	// per country.
 	
-	// You can ignore this.  It's to get rid of eclipse warnings
+	// It's to get rid of eclipse warnings
 	private static final long serialVersionUID = 1L;
 
 	// IF YOU ARE WORKING OFFILINE, change the value of this variable to true
@@ -90,9 +86,6 @@ public class EarthquakeCityMap extends PApplet {
 		// FOR TESTING: Set earthquakesURL to be one of the testing files by uncommenting
 		// one of the lines below.  This will work whether you are online or offline
 		
-		// Uncomment this line to take the quiz
-		//earthquakesURL = "quiz2.atom";
-		
 		
 		// (2) Reading in earthquake data and geometric properties
 	    //     STEP 1: load country features and markers
@@ -141,8 +134,7 @@ public class EarthquakeCityMap extends PApplet {
 		
 	}
 	
-	
-	// TODO: Add the method:
+
 	//   private void sortAndPrint(int numToPrint)
 	// and then call that method from setUp
 	private void sortAndPrint(int numToPrint){
@@ -156,9 +148,6 @@ public class EarthquakeCityMap extends PApplet {
 
 		Collections.sort(quakeList);
 
-//		for(int i = 0; i < Math.min(numToPrint, quakeList.size()); i++){
-//			System.out.print(String.valueOf(quakeList.get(i).getMagnitude()) + "\n");
-//		}
 	}
 
 	private void topEarthquake(CityMarker city, List<EarthquakeMarker> quakeList){

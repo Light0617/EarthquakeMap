@@ -5,11 +5,7 @@ import processing.core.PConstants;
 import processing.core.PGraphics;
 
 /** Implements a visual marker for earthquakes on an earthquake map
- * 
- * @author UC San Diego Intermediate Software Development MOOC team
- *
  */
-// TODO: Implement the comparable interface
 public abstract class EarthquakeMarker extends CommonMarker
 										implements Comparable<EarthquakeMarker>
 {
@@ -55,8 +51,7 @@ public abstract class EarthquakeMarker extends CommonMarker
 		setProperties(properties);
 		this.radius = 1.75f*getMagnitude();
 	}
-	
-	// TODO: Add the method:
+
 	@Override
 	public int compareTo(EarthquakeMarker marker) {
 		return ((Float)marker.getMagnitude()).compareTo(((Float)this.getMagnitude()));
