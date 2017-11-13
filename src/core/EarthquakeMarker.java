@@ -100,7 +100,7 @@ public abstract class EarthquakeMarker extends CommonMarker
 		pg.pushStyle();
 		
 		pg.rectMode(PConstants.CORNER);
-		
+
 		pg.stroke(110);
 		pg.fill(255,255,255);
 		pg.rect(x, y + 15, pg.textWidth(title) +6, 18, 5);
@@ -108,10 +108,9 @@ public abstract class EarthquakeMarker extends CommonMarker
 		pg.textAlign(PConstants.LEFT, PConstants.TOP);
 		pg.fill(0);
 		pg.text(title, x + 3 , y +18);
-		
-		
+
 		pg.popStyle();
-		
+
 	}
 
 	
@@ -127,7 +126,9 @@ public abstract class EarthquakeMarker extends CommonMarker
 		double km = (miles * kmPerMile);
 		return km;
 	}
-	
+
+
+
 	// determine color of marker from depth
 	// We use: Deep = red, intermediate = blue, shallow = yellow
 	private void colorDetermine(PGraphics pg) {

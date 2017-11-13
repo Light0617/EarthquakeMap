@@ -236,12 +236,13 @@ public class EarthquakeCityMap extends PApplet {
 			if (!marker.isHidden() && marker.isInside(map, mouseX, mouseY)) {
 				List<EarthquakeMarker> quakeList = new ArrayList<>();
 				lastClicked = (CommonMarker)marker;
-				// Hide all the other earthquakes and hide
+				// Hide all the other cities
 				for (Marker mhide : cityMarkers) {
 					if (mhide != lastClicked) {
 						mhide.setHidden(true);
 					}
 				}
+				//check all earthquakes and show the earthquakes if they will affect the given city
 				for (Marker mhide : quakeMarkers) {
 					EarthquakeMarker quakeMarker = (EarthquakeMarker)mhide;
 					if (quakeMarker.getDistanceTo(marker.getLocation()) 
@@ -267,12 +268,13 @@ public class EarthquakeCityMap extends PApplet {
 			EarthquakeMarker marker = (EarthquakeMarker)m;
 			if (!marker.isHidden() && marker.isInside(map, mouseX, mouseY)) {
 				lastClicked = marker;
-				// Hide all the other earthquakes and hide
+				// Hide all the other earthquakes
 				for (Marker mhide : quakeMarkers) {
 					if (mhide != lastClicked) {
 						mhide.setHidden(true);
 					}
 				}
+				//check all cities and show the cities if they will be affected the given quake
 				for (Marker mhide : cityMarkers) {
 					if (mhide.getDistanceTo(marker.getLocation()) 
 							> marker.threatCircle()) {
